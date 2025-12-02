@@ -5,7 +5,7 @@
 # Secure Webhook for Home Assistant
 
 [![Tests](https://github.com/agood25/ha-secure-webhook/actions/workflows/tests.yml/badge.svg)](https://github.com/agood25/ha-secure-webhook/actions/workflows/tests.yml)
-[![codecov](https://codecov.io/gh/agood25/ha-secure-webhook/branch/main/graph/badge.svg)](https://codecov.io/gh/agood25/ha-secure-webhook)
+[![codecov](https://codecov.io/gh/agood25/ha-secure-webhook/graph/badge.svg)](https://codecov.io/gh/agood25/ha-secure-webhook)
 [![Language](https://img.shields.io/github/languages/top/agood25/ha-secure-webhook)](https://github.com/agood25/ha-secure-webhook)
 [![License](https://img.shields.io/github/license/agood25/ha-secure-webhook)](https://github.com/agood25/ha-secure-webhook/blob/main/LICENSE)
 [![Release](https://img.shields.io/github/v/release/agood25/ha-secure-webhook)](https://github.com/agood25/ha-secure-webhook/releases)
