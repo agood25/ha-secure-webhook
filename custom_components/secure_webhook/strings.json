@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Create Secure Webhook",
+        "description": "Configure your secure webhook.\n\n**IMPORTANT:** The 'Authentication Token' below is auto-generated. **Copy it now.**\n\nYou will **NOT** be able to view this token again after this step.",
+        "data": {
+          "webhook_id": "Webhook ID (URL Slug)",
+          "auth_token": "Authentication Token"
+        }
+      }
+    },
+    "error": {
+      "webhook_id_exists": "This Webhook ID is already in use.",
+      "invalid_slug": "Invalid ID. Use only lowercase letters, numbers, and underscores."
+    },
+    "abort": {
+      "webhook_id_exists": "This Webhook ID is already registered."
+    }
+  }
+}
