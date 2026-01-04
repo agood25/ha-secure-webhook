@@ -7,7 +7,7 @@
 [![Tests](https://github.com/agood25/ha-secure-webhook/actions/workflows/tests.yml/badge.svg)](https://github.com/agood25/ha-secure-webhook/actions/workflows/tests.yml)
 [![codecov](https://codecov.io/gh/agood25/ha-secure-webhook/graph/badge.svg)](https://codecov.io/gh/agood25/ha-secure-webhook)
 [![Language](https://img.shields.io/github/languages/top/agood25/ha-secure-webhook)](https://github.com/agood25/ha-secure-webhook)
-[![License](https://img.shields.io/github/license/agood25/ha-secure-webhook)](https://github.com/agood25/ha-secure-webhook/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Release](https://img.shields.io/github/v/release/agood25/ha-secure-webhook)](https://github.com/agood25/ha-secure-webhook/releases)
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 
