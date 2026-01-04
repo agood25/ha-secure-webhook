@@ -15,7 +15,7 @@ A custom integration that replaces the standard, insecure Home Assistant webhook
 
 ## Why use this?
 
-Standard Home Assistant webhooks rely on the secrecy of the webhook ID itself. If that ID is leaked, anyone can trigger your automation. **Secure Webhook** adds a layer of authentication by requiring a Bearer Token in the HTTP header, which is hashed and verified securely.
+Standard Home Assistant webhooks rely on the secrecy of the webhook ID. That webhook ID is passed in plaintext in the URL request. **Secure Webhook** adds a layer of authentication by requiring a Bearer Token in the HTTP header, which is hashed and verified securely.
 
 ## Features
 
